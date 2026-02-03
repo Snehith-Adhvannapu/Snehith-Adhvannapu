@@ -17,7 +17,7 @@ I’m a **first-year B.Tech student** focused on building strong **engineering f
 
 Rather than chasing stacks or trends, I care about **clarity, correctness, and long-term thinking**. I enjoy combining technical discipline with creative problem-solving.
 
-- 🎓 Student at **Sri Chaitanya Boys College**
+
 - 🐧 Exploring **Go (Golang)** and **Linux systems**
 - ⏰ Early riser (4:00 AM) balancing fitness, focused coding, and college
 - 🧩 Interested in systems, architecture, and structured thinking
