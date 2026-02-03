@@ -45,17 +45,17 @@ This helps me think in **systems, interactions, and constraints**.
 
 ---
 
-### ✍️ Creative Writing — *RIFTED*
+### Creative Writing — *RIFTED*
 Creator of **RIFTED**, an ongoing comic project involving:
 - Deep world-building  
-- Complex characters (Ray, Uzair)  
+- Complex characters
 - Long-term narrative planning  
 
 Storytelling sharpens my ability to manage **complex structures and timelines**.
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Strengthening programming fundamentals  
 - Learning **Linux environments** and terminal workflows  
@@ -64,7 +64,7 @@ Storytelling sharpens my ability to manage **complex structures and timelines**.
 
 ---
 
-## ⚡ Quick Facts
+##  Quick Facts
 
 - **Location:** Hyderabad, India  
 - **Currently learning:** Go, Linux, system-level thinking  
@@ -73,7 +73,7 @@ Storytelling sharpens my ability to manage **complex structures and timelines**.
 
 ---
 
-## 🧩 Mindset
+## Mindset
 
 - Learn slowly, but correctly  
 - Build things that teach fundamentals  
