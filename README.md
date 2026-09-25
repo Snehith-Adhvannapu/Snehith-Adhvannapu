@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Snehith
 
-### 🎮 Game Developer • 🎥 Content Creator • Builder
+### 🎮 Game Developer • Builder
 
 📍 Hyderabad, India
 
